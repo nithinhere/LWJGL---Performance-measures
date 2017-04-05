@@ -1,0 +1,47 @@
+--------------------------------------
+P3 Evaluation test: #obj:   1000  configCode: bsj.da.mc
+Initial redraw: 0.13
+Average redraw (sec): 0.0078     110.000 FPS
+Average redraw (sec): 0.0084     111.333 FPS
+Average redraw (sec): 0.0081     112.000 FPS
+Average redraw (sec): 0.0062     149.667 FPS
+Average redraw (sec): 0.0060     156.333 FPS
+Average redraw (sec): 0.0072     127.667 FPS
+Average redraw (sec): 0.0093      96.000 FPS
+Average redraw (sec): 0.0079     115.333 FPS
+Average redraw (sec): 0.0097      94.333 FPS
+Average redraw (sec): 0.0074     125.333 FPS
+Average redraw (sec): 0.0083     110.667 FPS
+Average redraw (sec): 0.0082     113.333 FPS
+Average redraw (sec): 0.0082     111.667 FPS
+Average redraw (sec): 0.0093      95.667 FPS
+Average redraw (sec): 0.0088     106.667 FPS
+Average redraw (sec): 0.0122      75.333 FPS
+Average redraw (sec): 0.0094      95.667 FPS
+Average redraw (sec): 0.0086     108.000 FPS
+Average redraw (sec): 0.0110      84.667 FPS
+Average redraw (sec): 0.0095      97.667 FPS
+Average redraw (sec): 0.0095      98.667 FPS
+Average redraw (sec): 0.0115      82.000 FPS
+Average redraw (sec): 0.0081     114.667 FPS
+Average redraw (sec): 0.0080     116.333 FPS
+Average redraw (sec): 0.0079     118.000 FPS
+Average redraw (sec): 0.0077     120.333 FPS
+Average redraw (sec): 0.0078     118.333 FPS
+Average redraw (sec): 0.0077     120.667 FPS
+Average redraw (sec): 0.0040     211.667 FPS
+Average redraw (sec): 0.0079     117.667 FPS
+Average redraw (sec): 0.0078     118.333 FPS
+Average redraw (sec): 0.0079     117.667 FPS
+Average redraw (sec): 0.0080     117.667 FPS
+Average redraw (sec): 0.0078     118.000 FPS
+Average redraw (sec): 0.0078     119.333 FPS
+Average redraw (sec): 0.0063     148.333 FPS
+Average redraw (sec): 0.0060     155.667 FPS
+Average redraw (sec): 0.0055     170.000 FPS
+Average redraw (sec): 0.0053     176.667 FPS
+Average redraw (sec): 0.0052     177.667 FPS
+Average redraw (sec): 0.0052     178.667 FPS
+Average redraw (sec): 0.0052     179.333 FPS
+Average redraw (sec): 0.0053     176.333 FPS
+Average redraw (sec): 0.0052     177.667 FPS

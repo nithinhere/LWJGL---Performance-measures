@@ -1,0 +1,23 @@
+# Testing bsj.da.mc.c3 against bsa.da.mc.c4 1000 objects
+make ARGS="1000 bsj.da.mc.c3"
+make ARGS="1000 bsa.da.mc.c4"
+
+# Testing bsj.da.mc.c3 against bsa.da.mc.c4 5000 objects
+make ARGS="5000 bsj.da.mc.c3"
+make ARGS="5000 bsa.da.mc.c4"
+
+
+# Testing bsj.ab.da.mc.c4 against bsj.ai.da.mc.c4 1000 objects
+make ARGS="1000 bsj.da.mc.c3"
+make ARGS="1000 bsa.da.mc.c4"
+
+
+
+
+# Testing bsj.ab.da.mg.c4 against bsa.de.mg.c4 1000 objects
+make ARGS="1000 bsj.ab.da.mg.c4"
+make ARGS="1000 bsa.de.mg.c4"
+# Testing bsj.ab.da.mg.c4 against bsa.de.mg.c4 10000 objects
+make ARGS="10000 bsj.ab.da.mg.c4"
+make ARGS="10000 bsa.de.mg.c4"
+

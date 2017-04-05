@@ -1,0 +1,9 @@
+--------------------------------------
+P3 Evaluation test: #obj:  10000  configCode: bsa.de.mg.c4
+Initial redraw: 0.385
+Average redraw (sec): 0.0290      33.333 FPS
+Average redraw (sec): 0.0284      35.000 FPS
+Average redraw (sec): 0.0279      35.667 FPS
+Average redraw (sec): 0.0282      35.333 FPS
+Average redraw (sec): 0.0304      32.667 FPS
+Average redraw (sec): 0.0292      34.000 FPS

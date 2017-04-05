@@ -1,0 +1,34 @@
+--------------------------------------
+P3 Evaluation test: #obj:   5000  configCode: bsa.da.mc
+Initial redraw: 0.189
+Average redraw (sec): 0.0164      58.333 FPS
+Average redraw (sec): 0.0163      60.333 FPS
+Average redraw (sec): 0.0167      59.667 FPS
+Average redraw (sec): 0.0166      59.333 FPS
+Average redraw (sec): 0.0169      58.333 FPS
+Average redraw (sec): 0.0166      59.333 FPS
+Average redraw (sec): 0.0186      54.333 FPS
+Average redraw (sec): 0.0171      58.000 FPS
+Average redraw (sec): 0.0194      51.000 FPS
+Average redraw (sec): 0.0178      55.333 FPS
+Average redraw (sec): 0.0175      56.333 FPS
+Average redraw (sec): 0.0180      55.000 FPS
+Average redraw (sec): 0.0150      66.333 FPS
+Average redraw (sec): 0.0152      65.333 FPS
+Average redraw (sec): 0.0195      50.667 FPS
+Average redraw (sec): 0.0181      54.667 FPS
+Average redraw (sec): 0.0177      56.000 FPS
+Average redraw (sec): 0.0160      61.667 FPS
+Average redraw (sec): 0.0154      64.000 FPS
+Average redraw (sec): 0.0159      62.333 FPS
+Average redraw (sec): 0.0157      63.000 FPS
+Average redraw (sec): 0.0155      63.667 FPS
+Average redraw (sec): 0.0194      50.667 FPS
+Average redraw (sec): 0.0181      54.333 FPS
+Average redraw (sec): 0.0169      58.333 FPS
+Average redraw (sec): 0.0157      63.333 FPS
+Average redraw (sec): 0.0152      64.333 FPS
+Average redraw (sec): 0.0155      63.333 FPS
+Average redraw (sec): 0.0159      62.667 FPS
+Average redraw (sec): 0.0158      61.667 FPS
+Average redraw (sec): 0.0194      51.000 FPS

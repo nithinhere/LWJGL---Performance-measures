@@ -1,0 +1,44 @@
+--------------------------------------
+P3 Evaluation test: #obj:   1000  configCode: bsj.ab.da.mc.c4
+Initial redraw: 0.064
+Average redraw (sec): 0.0051     177.000 FPS
+Average redraw (sec): 0.0051     181.000 FPS
+Average redraw (sec): 0.0053     174.667 FPS
+Average redraw (sec): 0.0056     165.667 FPS
+Average redraw (sec): 0.0042     222.667 FPS
+Average redraw (sec): 0.0038     248.333 FPS
+Average redraw (sec): 0.0040     238.667 FPS
+Average redraw (sec): 0.0041     229.667 FPS
+Average redraw (sec): 0.0057     163.000 FPS
+Average redraw (sec): 0.0059     160.667 FPS
+Average redraw (sec): 0.0049     188.333 FPS
+Average redraw (sec): 0.0042     223.333 FPS
+Average redraw (sec): 0.0042     222.667 FPS
+Average redraw (sec): 0.0038     246.333 FPS
+Average redraw (sec): 0.0037     254.333 FPS
+Average redraw (sec): 0.0053     177.667 FPS
+Average redraw (sec): 0.0055     168.000 FPS
+Average redraw (sec): 0.0049     190.000 FPS
+Average redraw (sec): 0.0057     158.333 FPS
+Average redraw (sec): 0.0039     242.333 FPS
+Average redraw (sec): 0.0039     239.333 FPS
+Average redraw (sec): 0.0060     151.333 FPS
+Average redraw (sec): 0.0041     229.333 FPS
+Average redraw (sec): 0.0061     150.333 FPS
+Average redraw (sec): 0.0042     223.000 FPS
+Average redraw (sec): 0.0039     244.000 FPS
+Average redraw (sec): 0.0042     221.667 FPS
+Average redraw (sec): 0.0056     168.333 FPS
+Average redraw (sec): 0.0057     163.333 FPS
+Average redraw (sec): 0.0055     168.000 FPS
+Average redraw (sec): 0.0055     167.333 FPS
+Average redraw (sec): 0.0043     221.333 FPS
+Average redraw (sec): 0.0037     244.000 FPS
+Average redraw (sec): 0.0038     239.667 FPS
+Average redraw (sec): 0.0039     240.667 FPS
+Average redraw (sec): 0.0038     239.333 FPS
+Average redraw (sec): 0.0039     231.667 FPS
+Average redraw (sec): 0.0039     233.667 FPS
+Average redraw (sec): 0.0038     238.000 FPS
+Average redraw (sec): 0.0039     234.333 FPS
+Average redraw (sec): 0.0041     230.333 FPS

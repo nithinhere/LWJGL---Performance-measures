@@ -1,0 +1,26 @@
+--------------------------------------
+P3 Evaluation test: #obj:   5000  configCode: bua.de.mc
+Initial redraw: 0.702
+Average redraw (sec): 0.0225      42.333 FPS
+Average redraw (sec): 0.0217      45.667 FPS
+Average redraw (sec): 0.0242      41.000 FPS
+Average redraw (sec): 0.0255      38.667 FPS
+Average redraw (sec): 0.0217      45.667 FPS
+Average redraw (sec): 0.0239      41.333 FPS
+Average redraw (sec): 0.0224      44.333 FPS
+Average redraw (sec): 0.0282      35.000 FPS
+Average redraw (sec): 0.0253      39.333 FPS
+Average redraw (sec): 0.0230      43.333 FPS
+Average redraw (sec): 0.0212      47.000 FPS
+Average redraw (sec): 0.0244      40.333 FPS
+Average redraw (sec): 0.0230      43.333 FPS
+Average redraw (sec): 0.0295      33.333 FPS
+Average redraw (sec): 0.0236      42.333 FPS
+Average redraw (sec): 0.0238      41.667 FPS
+Average redraw (sec): 0.0214      46.667 FPS
+Average redraw (sec): 0.0219      45.333 FPS
+Average redraw (sec): 0.0248      39.333 FPS
+Average redraw (sec): 0.0233      42.667 FPS
+Average redraw (sec): 0.0244      40.667 FPS
+Average redraw (sec): 0.0222      45.000 FPS
+Average redraw (sec): 0.0213      45.667 FPS

@@ -1,0 +1,27 @@
+--------------------------------------
+P3 Evaluation test: #obj:   1000  configCode: buj.da.mc
+Initial redraw: 0.165
+Average redraw (sec): 0.0085     103.333 FPS
+Average redraw (sec): 0.0089     103.333 FPS
+Average redraw (sec): 0.0090     104.333 FPS
+Average redraw (sec): 0.0100      93.667 FPS
+Average redraw (sec): 0.0096      93.667 FPS
+Average redraw (sec): 0.0091     102.000 FPS
+Average redraw (sec): 0.0103      90.333 FPS
+Average redraw (sec): 0.0097      97.000 FPS
+Average redraw (sec): 0.0102      88.667 FPS
+Average redraw (sec): 0.0087     105.333 FPS
+Average redraw (sec): 0.0100      92.000 FPS
+Average redraw (sec): 0.0106      86.667 FPS
+Average redraw (sec): 0.0086     109.000 FPS
+Average redraw (sec): 0.0101      92.000 FPS
+Average redraw (sec): 0.0097      96.333 FPS
+Average redraw (sec): 0.0098      96.000 FPS
+Average redraw (sec): 0.0099      94.667 FPS
+Average redraw (sec): 0.0094      97.333 FPS
+Average redraw (sec): 0.0084     114.333 FPS
+Average redraw (sec): 0.0112      83.000 FPS
+Average redraw (sec): 0.0086     108.000 FPS
+Average redraw (sec): 0.0070     136.000 FPS
+Average redraw (sec): 0.0073     129.333 FPS
+Average redraw (sec): 0.0106      86.333 FPS

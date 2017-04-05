@@ -1,0 +1,16 @@
+--------------------------------------
+P3 Evaluation test: #obj:   5000  configCode: bsj.da.mc.c3
+Initial redraw: 0.201
+Average redraw (sec): 0.0160      59.333 FPS
+Average redraw (sec): 0.0172      57.333 FPS
+Average redraw (sec): 0.0146      68.333 FPS
+Average redraw (sec): 0.0141      70.333 FPS
+Average redraw (sec): 0.0185      53.000 FPS
+Average redraw (sec): 0.0174      56.333 FPS
+Average redraw (sec): 0.0146      67.667 FPS
+Average redraw (sec): 0.0180      55.000 FPS
+Average redraw (sec): 0.0159      63.333 FPS
+Average redraw (sec): 0.0165      59.667 FPS
+Average redraw (sec): 0.0187      52.667 FPS
+Average redraw (sec): 0.0169      58.667 FPS
+Average redraw (sec): 0.0176      56.667 FPS

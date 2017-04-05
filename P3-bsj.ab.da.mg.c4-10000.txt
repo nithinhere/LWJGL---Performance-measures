@@ -1,0 +1,6 @@
+--------------------------------------
+P3 Evaluation test: #obj:  10000  configCode: bsj.ab.da.mg.c4
+Initial redraw: 0.36
+Average redraw (sec): 0.0266      36.333 FPS
+Average redraw (sec): 0.0275      36.000 FPS
+Average redraw (sec): 0.0263      37.667 FPS

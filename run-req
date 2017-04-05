@@ -1,0 +1,35 @@
+# Testing bsa against bua with 1000 objects
+make ARGS="1000 bua.da.mc"
+make ARGS="1000 bsa.da.mc"
+
+# Testing bsa against bua with 5000 objects
+make ARGS="5000 bua.da.mc"
+make ARGS="5000 bsa.da.mc"
+
+# Testing buj against bsj with 1000 objects
+make ARGS="1000 buj.da.mc"
+make ARGS="1000 bsj.da.mc"
+
+# Testing buj against bsj with 5000 objects
+make ARGS="5000 buj.da.mc"
+make ARGS="5000 bsj.da.mc"
+
+# Testing bua.de against bsa.de with 1000 objects
+make ARGS="1000 bua.de.mc"
+make ARGS="1000 bsa.de.mc"
+
+# Testing bua.de against bsa.de with 5000 objects
+make ARGS="5000 bua.de.mc"
+make ARGS="5000 bsa.de.mc"
+
+# Testing bsa.da.mc against bsj.da.mg 1000 objects
+make ARGS="1000 bsa.da.mc"
+make ARGS="1000 bsj.da.mg"
+
+# Testing bsa.da.mc against bsj.da.mg 5000 objects
+make ARGS="5000 bsa.da.mc"
+make ARGS="5000 bsj.da.mg"
+
+
+
+

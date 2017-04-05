@@ -1,0 +1,16 @@
+--------------------------------------
+P3 Evaluation test: #obj:   5000  configCode: bua.da.mc
+Initial redraw: 0.435
+Average redraw (sec): 0.0188      51.000 FPS
+Average redraw (sec): 0.0197      49.667 FPS
+Average redraw (sec): 0.0204      48.000 FPS
+Average redraw (sec): 0.0208      47.333 FPS
+Average redraw (sec): 0.0190      52.333 FPS
+Average redraw (sec): 0.0213      46.333 FPS
+Average redraw (sec): 0.0218      45.000 FPS
+Average redraw (sec): 0.0240      41.333 FPS
+Average redraw (sec): 0.0198      49.667 FPS
+Average redraw (sec): 0.0235      42.000 FPS
+Average redraw (sec): 0.0236      42.000 FPS
+Average redraw (sec): 0.0204      48.667 FPS
+Average redraw (sec): 0.0217      45.333 FPS
